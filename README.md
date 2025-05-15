@@ -28,9 +28,9 @@
 
 ### 📈 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramaalapati&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramaalapati&theme=radical&show_icons=true))  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=sriramaalapati&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramaalapati&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramaalapati&layout=pie&theme=radical)
 
 ---
 ### 🤝 Connect With Me
